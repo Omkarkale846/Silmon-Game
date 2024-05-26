@@ -4,7 +4,7 @@ Test your memory skills with this captivating color sequence challenge! Built wi
 
 # karma
 
-Omkar
+omkar
 
 # student
 
